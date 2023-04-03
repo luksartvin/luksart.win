@@ -206,7 +206,7 @@ img,video {
 	--tw-numeric-fraction: ;--tw-ring-inset:;
 	--tw-ring-offset-width: 0px;
 	--tw-ring-offset-color: #fff;
-	--tw-ring-color: rgb(235 0 40 / 0.5);
+	--tw-ring-color: rgb(0 0 40 / 0.5);
 	--tw-ring-offset-shadow: 0 0 #0000;
 	--tw-ring-shadow: 0 0 #0000;
 	--tw-shadow: 0 0 #0000;
@@ -496,7 +496,7 @@ img,video {
 
 .bg-indigo-500 {
 	--tw-bg-opacity: 1;
-	background-color: rgb(235 60 40/var(--tw-bg-opacity));
+	background-color: rgb(8 108 245/var(--tw-bg-opacity));
 }
 
 .p-2 {
@@ -625,7 +625,7 @@ img,video {
 
 .text-blue-500 {
 	--tw-text-opacity: 1;
-	color: rgb(230 0 45/var(--tw-text-opacity));
+	color: rgb(0 100 240/var(--tw-text-opacity));
 }
 
 .text-gray-500 {
