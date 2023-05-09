@@ -494,6 +494,11 @@ img,video {
 	background-color: rgb(21 20 20/var(--tw-bg-opacity));
 }
 
+.bg-rose-500 {
+	--tw-bg-opacity: 1;
+	background-color: rgb(244 63 94/var(--tw-bg-opacity));
+}
+
 .bg-indigo-500 {
 	--tw-bg-opacity: 1;
 	background-color: rgb(8 108 245/var(--tw-bg-opacity));
@@ -626,6 +631,17 @@ img,video {
 .text-blue-500 {
 	--tw-text-opacity: 1;
 	color: rgb(0 100 240/var(--tw-text-opacity));
+}
+
+
+.text-red-500 {
+	--tw-text-opacity: 1;
+	color: rgb(244 40 40/var(--tw-text-opacity));
+}
+
+.text-rose-500 {
+	--tw-text-opacity: 1;
+	color: rgb(244 63 94/var(--tw-text-opacity));
 }
 
 .text-gray-500 {
